@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atje
-- 👀 I’m interested in home automation, learning new things, solving problems
+- 👀 I’m interested in home automation, learning new things, solving problems. Did my first program in mid 80s, and have since explored more programming languages than I can remember (some of which have surely ceased to be used, like Basic, Pascal)
 - 🌱 I’m currently learning Xtend, Java11, Maven, Mockito and how not to suck as a developer when doing it too seldom
 - 💞️ I’m looking to collaborate on ...
 - 📫 Ping me on LinkedIn! 
