@@ -3,7 +3,7 @@
 - Linux user since the early 90's, also was one of those guys tampering with OS/2 🤓
 
 - 🌱 I’m currently learning Xtend, Java11, Maven, Mockito and how not to suck as a developer when doing it too seldom
-- 💞️ Also cheating with Ardunio C++, CSS, Framework7
+- Also cheating with Ardunio C++, CSS, Framework7 💞️ 
 -
 - 📫 Ping me on LinkedIn! 
 
