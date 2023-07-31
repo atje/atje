@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Xtend, Java11, Maven, Mockito and how not to suck as a developer when doing it too seldom
 - Also cheating with Ardunio C++, CSS, Framework7 💞️ 
-- Latest endeavor is to learn Go (golang)
+- Latest endeavor is to learn Go (golang) by using it to solve AoC 2022 puzzle
 
 📫 Ping me on LinkedIn! 
 
