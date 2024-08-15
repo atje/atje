@@ -4,8 +4,9 @@
 
 - 🌱 I’m an occasional developer who try not to suck when doing it too seldom
 - Also cheating with Ardunio C++, CSS, Framework7 💞️ 
-- Latest endeavor is to learn Go (golang) by using it to solve AoC puzzles (2022 & 2023) ![image](https://github.com/user-attachments/assets/62646e6f-5e2e-4dd6-ad5a-76a7fe3f8712)
+- Latest endeavor is to learn Go (golang) by using it to solve AoC puzzles (2022 & 2023)
 
+  ![image](https://github.com/user-attachments/assets/62646e6f-5e2e-4dd6-ad5a-76a7fe3f8712)
 
 📫 Ping me on LinkedIn! 
 
