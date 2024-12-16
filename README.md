@@ -8,7 +8,7 @@
 
   ![image](https://github.com/user-attachments/assets/62646e6f-5e2e-4dd6-ad5a-76a7fe3f8712)
 
-📫 Ping me on LinkedIn! 
+📫 [Ping me on LinkedIn](https://www.linkedin.com/in/andreastje/)! 
 
 <!---
 atje/atje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
