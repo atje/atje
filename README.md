@@ -3,7 +3,7 @@
 - Linux user since the early 90's, also was one of those guys tampering with OS/2 🤓
 
 - 🌱 I’m an occasional developer who try not to suck when doing it too seldom
-- Also cheating with Ardunio C++, CSS, Framework7 💞️ 
+- Also cheating with Ardunio C++, CSS, js, Framework7 💞️ 
 - Latest endeavor is to learn Go (golang) by using it to solve AoC puzzles (2022-2024)
 
   ![image](https://github.com/user-attachments/assets/62646e6f-5e2e-4dd6-ad5a-76a7fe3f8712)
